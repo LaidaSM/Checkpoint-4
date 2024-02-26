@@ -1,2 +1,2 @@
 # Checkpoint-4
-M2C4 Python Assignment
+Exercise solution for M2C4 Python Assignment from Laida Suquilvide
